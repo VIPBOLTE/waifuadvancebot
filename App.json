@@ -46,12 +46,12 @@
       "MONGO_DB_URI": {
          "description": "Required for MongoDB database connections.",
          "required": true,
-         "value": "mongodb+srv://"
+         "value": "gokudb"
       },
       "DATABASE_URL": {
          "description": "Required for SQL database connections.",
          "required": true,
-         "value": "postgres://"
+         "value": ""
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
